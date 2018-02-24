@@ -2,7 +2,7 @@ package cardgame;
 
 import java.util.Scanner;
 
-public class DeckMain 
+public class DeckMain {
 	
 	public static void main(String[] args) {
 		Scanner reader = new Scanner(System.in);
